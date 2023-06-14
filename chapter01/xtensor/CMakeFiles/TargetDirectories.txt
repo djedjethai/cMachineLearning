@@ -1,0 +1,3 @@
+/home/jerome/Documents/code/cMachineLearning/chapter01/xtensor/CMakeFiles/linalg_xtensor.dir
+/home/jerome/Documents/code/cMachineLearning/chapter01/xtensor/CMakeFiles/edit_cache.dir
+/home/jerome/Documents/code/cMachineLearning/chapter01/xtensor/CMakeFiles/rebuild_cache.dir
