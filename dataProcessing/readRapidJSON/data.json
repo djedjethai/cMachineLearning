@@ -1,0 +1,74 @@
+{
+	"paper": [
+		{
+			"id": 1,
+			"preliminary_decision": "accept",
+			"review": [
+				{
+					"confidence": "4",
+					"evaluation": "1",
+					"id": 1,
+					"lan": "es",
+					"orientation": "0",
+					"remarks": "",
+					"text": "- El artículo aborda un problema contingente y muy relevante, e incluye tanto un diagnóstico nacional de uso de buenas prácticas como una solución (buenas prácticas concretas)...",
+					"timespan": "2010-07-05"
+				},
+				{
+					"confidence": "4",
+					"evaluation": "1",
+					"id": 2,
+					"lan": "es",
+					"orientation": "1",
+					"remarks": "",
+					"text": "El artículo presenta recomendaciones prácticas para el desarrollo de software seguro...",
+					"timespan": "2010-07-05"
+				},
+				{
+					"confidence": "5",
+					"evaluation": "1",
+					"id": 3,
+					"lan": "es",
+					"orientation": "1",
+					"remarks": "",
+					"text": "- El tema es muy interesante y puede ser de mucha ayuda una guía para incorporar prácticas de seguridad...",
+					"timespan": "2010-07-05"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"preliminary_decision": "reject",
+			"review": [
+				{
+					"confidence": "3",
+					"evaluation": "2",
+					"id": 4,
+					"lan": "en",
+					"orientation": "0",
+					"remarks": "",
+					"text": "The paper lacks a clear structure and organization.",
+					"timespan": "2010-07-06"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"preliminary_decision": "accept",
+			"review": [
+				{
+					"confidence": "5",
+					"evaluation": "3",
+					"id": 5,
+					"lan": "fr",
+					"orientation": "1",
+					"remarks": "Excellent work!",
+					"text": "Ce papier est très bien écrit et présente des résultats intéressants.",
+					"timespan": "2010-07-07"
+				}
+			]
+		}
+	]
+}
+
+

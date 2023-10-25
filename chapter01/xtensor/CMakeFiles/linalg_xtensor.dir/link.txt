@@ -1,1 +1,0 @@
-/usr/bin/c++ -std=c++17 -msse3 -fopenmp -Wall -Wextra  -rdynamic CMakeFiles/linalg_xtensor.dir/practice_xtensor.cc.o -o linalg_xtensor  -lcblas 

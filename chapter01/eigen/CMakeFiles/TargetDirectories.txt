@@ -1,3 +1,0 @@
-/home/jerome/Documents/code/cMachineLearning/chapter01/eigen/CMakeFiles/practice_eigen.dir
-/home/jerome/Documents/code/cMachineLearning/chapter01/eigen/CMakeFiles/edit_cache.dir
-/home/jerome/Documents/code/cMachineLearning/chapter01/eigen/CMakeFiles/rebuild_cache.dir

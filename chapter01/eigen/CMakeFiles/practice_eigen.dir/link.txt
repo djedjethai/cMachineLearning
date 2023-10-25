@@ -1,1 +1,0 @@
-/usr/bin/c++ -std=c++17 -msse3 -fopenmp -Wall -Wextra  -rdynamic CMakeFiles/practice_eigen.dir/practice_eigen.cc.o -o practice_eigen 
